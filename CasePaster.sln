@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasePaster", "CasePaster.csproj", "{FAA06E84-F5CB-4131-BF93-CA8698FDEC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA06E84-F5CB-4131-BF93-CA8698FDEC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA06E84-F5CB-4131-BF93-CA8698FDEC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA06E84-F5CB-4131-BF93-CA8698FDEC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA06E84-F5CB-4131-BF93-CA8698FDEC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DB3742-1B20-4049-802E-792434C03D72}
+	EndGlobalSection
+EndGlobal
